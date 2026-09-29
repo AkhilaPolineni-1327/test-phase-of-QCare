@@ -143,7 +143,7 @@ This task provided practical experience in **user testing, usability evaluation,
 
 * **Figma Prototype:** https://www.figma.com/proto/TbbosyL41c18WS1kl5GIwt/Untitled?node-id=12-676&p=f&t=Z54xRmObuN0e9q0A-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=12%3A676
 * **User Testing Video:** "C:\Users\pakhi\Downloads\WAC2.jpeg""C:\Users\pakhi\Downloads\WAV$.mp4"
-* **GitHub Repository:** https://github.com/AkhilaPolineni-1327/Illimera-Website-UI-Redesign?utm_source=chatgpt.com
+* **GitHub Repository:**https://github.com/AkhilaPolineni-1327
 
 ---
 
